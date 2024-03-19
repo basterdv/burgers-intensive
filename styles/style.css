@@ -100,7 +100,7 @@ body {
 
 .currency {
     border: 1px solid white;
-    padding: 11px;
+    padding: 11px 0;
     box-sizing: border-box;
     border-radius: 5px;
     width: 45px;
